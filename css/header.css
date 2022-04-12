@@ -50,12 +50,12 @@ header{
 
 .place{
     height: 50px;
-    width: 120px;
+    width: 160px;
 }
 
 .icos{
     display: flex;
     align-items: center;
-    padding-left: 180px;
+    padding-left: 150px;
     gap: 30px;
 }
