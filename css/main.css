@@ -1,0 +1,290 @@
+
+main{
+    background: url(../img/fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    height: 700px;
+}
+
+.texts{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Mulish', sans-serif;
+    font-style: italic;
+    padding-left: 100px;
+    padding-top: 300px;
+    gap: 20px;
+}
+
+h1{
+    font-size: 3rem;
+    text-shadow: 2px 2px 2px #000;
+}
+
+h3{
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.compra{
+    text-shadow: 1px 1px 1px #000;
+    height: 50px;
+    width: 200px;
+    background-color: #C90E0E;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8rem;
+    font-weight: 100;
+    font-style: italic;
+    text-decoration: none;
+    color: white;
+    transition: 0.7s;
+}
+
+.goo{
+    display: flex;
+    padding-top: 300px;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-family: 'Mulish', sans-serif;
+    font-style: italic;
+}
+
+.roupas{
+    display: flex;
+    padding-top: 120px;
+    padding-left: 150px;
+    gap: 180px;
+}
+
+.roup1{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.r1{
+    position: absolute;
+}
+
+.roup2{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.r2{
+    position: absolute;
+}
+
+.roup3{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.r3{
+    position: absolute;
+}
+
+.roup4{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.r4{
+    position: absolute;
+}
+
+.reta{
+    display: flex;
+    align-items: center;
+    padding-top: 70px;
+    padding-left: 100px;
+}
+
+.reta1{
+    text-shadow: 1px 1px 1px #000;
+    height: 2px;
+    width: 1710px;
+    background-color: gray;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8rem;
+    font-weight: 100;
+    font-style: italic;
+    text-decoration: none;
+    color: white;
+    transition: 0.7s;
+}
+
+.banner-parte{
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+}
+
+.neyma{
+    width: 100%;
+    position: relative;
+}
+
+.tex{
+    padding-top: 260px;
+    padding-left: 750px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Mulish', sans-serif;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.titu{
+    font-size: 4rem;
+    text-shadow: 2px 2px 2px #000;
+}
+
+.subt{
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.agora{
+    text-shadow: 1px 1px 1px #000;
+    height: 40px;
+    width: 200px;
+    background-color: black;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8rem;
+    font-weight: 100;
+    font-style: italic;
+    text-decoration: none;
+    color: white;
+    transition: 0.7s;
+}
+
+.bbb{
+    padding-top: 15px;
+}
+
+.nova-linha{
+    display: flex;
+    padding-top: 120px;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-family: 'Mulish', sans-serif;
+    font-style: italic;
+}
+
+.chuteiras{
+    padding-top: 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.chut1{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.r5{
+    position: absolute;
+}
+
+.chut2{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.r6{
+    position: absolute;
+}
+
+.chut3{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.r7{
+    position: absolute;
+}
+
+.chut4{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.r8{
+    position: absolute;
+}
+
+.abelha{
+    height: 260px;
+    width: 460px;
+}
+
+.mariposa{
+    height: 500px;
+    width: 500px;
+}
+
+.besouro{
+    height: 350px;
+    width: 350px;
+}
+
+.formiga{
+    height: 400px;
+    width: 400px;
+}
+
+.footer{
+    background-color: black;
+    height: 80px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.puma-logo{
+    display: flex;
+    flex-direction: column;
+    height: 80px;
+}
+
+.sup{
+    display: flex;
+    padding-left: 1600px;
+    font-family: 'Mulish', sans-serif;
+    font-style: italic;
+    font-size: 20px;
+}
